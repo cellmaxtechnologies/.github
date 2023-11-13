@@ -1,22 +1,17 @@
-# README for Code at Cellmax
+# Welcome to Code at Cellmax
 
-Welcome to "Code at Cellmax", a suite of software developed at Cellmax Technologies AB. This brief guide outlines essential information for our developers.
+**Innovative Solutions for Our Internal Use**
 
-## License File Inclusion
+Thank you for visiting "Code at Cellmax", our suite of cutting-edge software solutions developed exclusively for internal use at Cellmax Technologies AB.
 
-Each new repository in the "Code at Cellmax" suite must include our proprietary license agreement. This should be added as a file named `LICENSE.txt` in the root directory of the repository.
+## About Us
 
-## Contribution Guidelines
+At Cellmax Technologies AB, we take pride in developing software solutions that power our organization's success. Our focus is on delivering innovation and efficiency for our internal operations.
 
-- **Branching**: Create a new branch for each feature or bug fix.
-- **Testing**: Thoroughly test your changes.
-- **Documentation**: Update relevant documentation to reflect your changes.
+## Contact Us
 
-## Pull Requests and Reviews
+For inquiries or to learn more about our work, please feel free to contact the developer at Cellmax:
 
-- Submit your changes through pull requests.
-- Await code review and approval before your changes are merged into the main branch.
+- **Contact**: developer@cellmax.com
 
-## Support
-
-If you require assistance or have questions, please contact the owner of this GitHub account at developer@cellmax.com, who handles IT support for our development projects.
+We appreciate your interest in our work, and if you'd like to explore how we operate, we welcome your inquiries.
