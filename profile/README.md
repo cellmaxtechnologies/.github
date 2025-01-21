@@ -2,7 +2,7 @@
 
 **Innovative Solutions for Our Internal Use**
 
-Thank you for visiting "Code at Cellmax", our suite of software solutions developed for internal use at Cellmax Technologies AB.
+Thank you for visiting "Code 2 Cellmax", our suite of software solutions developed for internal use at Cellmax Technologies AB.
 
 ## About Us
 
